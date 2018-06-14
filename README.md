@@ -2,6 +2,11 @@
 inference for numerical data 
 Getting Started
 Load packages
+
+R pubs: 
+http://rpubs.com/Michelletan78/397229
+
+
 Let's load the necessary packages for this week's lab:
 
 library(statsr)
